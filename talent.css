@@ -1,0 +1,29 @@
+body{
+}
+.a{
+  height: 700px;
+  width: 100%;
+  background-image:  url("party2.jpg");
+
+}
+.b{
+  height: 700px;
+  width: 100%;
+  background-image: url("party.jpg");
+}
+.volume{
+  width: 15%;
+  text-align: right;
+}
+.vj{
+  color: #3f3697;
+  font-size: 40px;
+  margin-top: 0;
+  padding-top: 0;
+  text-align: center;
+  margin-bottom: 0;
+  font-family: 'Sacramento',cursive;
+}
+a:link{
+  text-decoration: none;
+}
